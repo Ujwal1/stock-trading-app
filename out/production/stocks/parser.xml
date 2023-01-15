@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<PortfolioManager>
+    <Portfolio Type="Flexible" id="1234">
+        <TickerSymbol name="GOOG">
+            <Transcation Count="5.0" Date="2022-09-09" Fee="3.0"/>
+        </TickerSymbol>
+    </Portfolio>
+    <Portfolio Type="Flexible" id="123456">
+        <TickerSymbol name="META">
+            <Transcation Count="5.0" Date="2022-09-09" Fee="5.0"/>
+        </TickerSymbol>
+    </Portfolio>
+    <Portfolio Type="Flexible" id="Saurav">
+        <TickerSymbol name="GOOG">
+            <Transcation Count="50.0" Date="2022-09-09" Fee="4.0"/>
+            <Transcation Count="26.802648058686707" Date="2022-09-09" Fee="4.0"/>
+        </TickerSymbol>
+    </Portfolio>
+    <Portfolio Type="Flexible" id="Aman">
+        <TickerSymbol name="GOOG">
+            <Transcation Count="6.0" Date="2022-09-09" Fee="2.0"/>
+        </TickerSymbol>
+    </Portfolio>
+    <Portfolio Type="Flexible" id="New">
+        <TickerSymbol name="IBM">
+            <Transcation Count="5.0" Date="2022-09-09" Fee="40.0"/>
+        </TickerSymbol>
+        <Strategy Name="New"/>
+        <TickerSymbol name="META">
+            <Transcation Count="0.0" Date="2022-09-09" Fee="5.0"/>
+            <Transcation Count="0.0" Date="2022-09-12" Fee="5.0"/>
+            <Transcation Count="0.0" Date="2022-09-15" Fee="5.0"/>
+            <Transcation Count="0.0" Date="2022-09-18" Fee="5.0"/>
+            <Transcation Count="0.0" Date="2022-09-21" Fee="5.0"/>
+            <Transcation Count="0.0" Date="2022-09-24" Fee="5.0"/>
+            <Transcation Count="0.0" Date="2022-09-27" Fee="5.0"/>
+            <Transcation Count="0.0" Date="2022-09-30" Fee="5.0"/>
+            <Transcation Count="0.0" Date="2022-10-03" Fee="5.0"/>
+            <Transcation Count="0.0" Date="2022-10-06" Fee="5.0"/>
+            <Transcation Count="0.0" Date="2022-10-09" Fee="5.0"/>
+            <Transcation Count="0.0" Date="2022-10-12" Fee="5.0"/>
+            <Transcation Count="0.0" Date="2022-10-15" Fee="5.0"/>
+            <Transcation Count="0.0" Date="2022-10-18" Fee="5.0"/>
+            <Transcation Count="0.0" Date="2022-10-21" Fee="5.0"/>
+            <Transcation Count="0.0" Date="2022-10-24" Fee="5.0"/>
+            <Transcation Count="0.0" Date="2022-10-27" Fee="5.0"/>
+            <Transcation Count="0.0" Date="2022-10-30" Fee="5.0"/>
+            <Transcation Count="0.0" Date="2022-11-02" Fee="5.0"/>
+            <Transcation Count="0.0" Date="2022-11-05" Fee="5.0"/>
+            <Transcation Count="0.0" Date="2022-11-08" Fee="5.0"/>
+            <Transcation Count="0.0" Date="2022-11-11" Fee="5.0"/>
+            <Transcation Count="0.0" Date="2022-11-14" Fee="5.0"/>
+            <Transcation Count="0.0" Date="2022-11-17" Fee="5.0"/>
+            <Transcation Count="0.0" Date="2022-11-20" Fee="5.0"/>
+            <Transcation Count="0.0" Date="2022-11-23" Fee="5.0"/>
+            <Transcation Count="0.0" Date="2022-11-26" Fee="5.0"/>
+            <Transcation Count="0.0" Date="2022-11-29" Fee="5.0"/>
+        </TickerSymbol>
+    </Portfolio>
+    <Portfolio Type="Flexible" id="test">
+        <TickerSymbol name="GOOG">
+            <Transcation Count="30.0" Date="2022-11-30" Fee="2.0"/>
+        </TickerSymbol>
+    </Portfolio>
+    <Portfolio Type="Flexible" id="test1">
+        <TickerSymbol name="GOOG">
+            <Transcation Count="4.0" Date="2022-09-09" Fee="2.0"/>
+        </TickerSymbol>
+    </Portfolio>
+    <Portfolio Type="Flexible" id="3456">
+        <TickerSymbol name="GOOG">
+            <Transcation Count="6.0" Date="2022-09-09" Fee="2.0"/>
+        </TickerSymbol>
+    </Portfolio>
+    <Portfolio Type="Flexible" id="test2">
+        <TickerSymbol name="IBM">
+            <Transcation Count="4.0" Date="2022-09-09" Fee="5.0"/>
+        </TickerSymbol>
+        <Strategy Name="S3"/>
+        <TickerSymbol name="GOOG">
+            <Transcation Count="0.0" Date="2022-09-19" Fee="30.0"/>
+            <Transcation Count="0.0" Date="2022-09-25" Fee="30.0"/>
+            <Transcation Count="0.0" Date="2022-10-01" Fee="30.0"/>
+            <Transcation Count="0.0" Date="2022-10-07" Fee="30.0"/>
+            <Transcation Count="0.0" Date="2022-10-13" Fee="30.0"/>
+            <Transcation Count="0.0" Date="2022-10-19" Fee="30.0"/>
+            <Transcation Count="0.0" Date="2022-10-25" Fee="30.0"/>
+            <Transcation Count="0.0" Date="2022-10-31" Fee="30.0"/>
+            <Transcation Count="0.0" Date="2022-11-06" Fee="30.0"/>
+            <Transcation Count="0.0" Date="2022-11-12" Fee="30.0"/>
+            <Transcation Count="0.0" Date="2022-11-18" Fee="30.0"/>
+            <Transcation Count="0.0" Date="2022-11-24" Fee="30.0"/>
+            <Transcation Count="0.0" Date="2022-11-30" Fee="30.0"/>
+        </TickerSymbol>
+    </Portfolio>
+    <Portfolio Type="Flexible" id="test3">
+        <TickerSymbol name="GOOG">
+            <Transcation Count="3.0" Date="2022-09-09" Fee="4.0"/>
+        </TickerSymbol>
+    </Portfolio>
+    <Portfolio Type="Flexible" id="test4">
+        <TickerSymbol name="GOOG">
+            <Transcation Count="4.0" Date="2022-09-09" Fee="3.0"/>
+            <Transcation Count="0.0" Date="2022-09-09" Fee="2.0"/>
+            <Transcation Count="0.0" Date="2022-09-12" Fee="2.0"/>
+            <Transcation Count="0.0" Date="2022-09-15" Fee="2.0"/>
+            <Transcation Count="0.0" Date="2022-09-18" Fee="2.0"/>
+            <Transcation Count="0.0" Date="2022-09-21" Fee="2.0"/>
+            <Transcation Count="0.0" Date="2022-09-24" Fee="2.0"/>
+            <Transcation Count="0.0" Date="2022-09-27" Fee="2.0"/>
+            <Transcation Count="0.0" Date="2022-09-30" Fee="2.0"/>
+            <Transcation Count="0.0" Date="2022-10-03" Fee="2.0"/>
+            <Transcation Count="0.0" Date="2022-10-06" Fee="2.0"/>
+            <Transcation Count="0.0" Date="2022-10-09" Fee="2.0"/>
+            <Transcation Count="0.0" Date="2022-10-12" Fee="2.0"/>
+            <Transcation Count="0.0" Date="2022-10-15" Fee="2.0"/>
+            <Transcation Count="0.0" Date="2022-10-18" Fee="2.0"/>
+            <Transcation Count="0.0" Date="2022-10-21" Fee="2.0"/>
+            <Transcation Count="0.0" Date="2022-10-24" Fee="2.0"/>
+            <Transcation Count="0.0" Date="2022-10-27" Fee="2.0"/>
+            <Transcation Count="0.0" Date="2022-10-30" Fee="2.0"/>
+            <Transcation Count="0.0" Date="2022-11-02" Fee="2.0"/>
+            <Transcation Count="0.0" Date="2022-11-05" Fee="2.0"/>
+            <Transcation Count="0.0" Date="2022-11-08" Fee="2.0"/>
+            <Transcation Count="0.0" Date="2022-11-11" Fee="2.0"/>
+            <Transcation Count="0.0" Date="2022-11-14" Fee="2.0"/>
+            <Transcation Count="0.0" Date="2022-11-17" Fee="2.0"/>
+            <Transcation Count="0.0" Date="2022-11-20" Fee="2.0"/>
+            <Transcation Count="0.0" Date="2022-11-23" Fee="2.0"/>
+            <Transcation Count="0.0" Date="2022-11-26" Fee="2.0"/>
+            <Transcation Count="0.0" Date="2022-11-29" Fee="2.0"/>
+        </TickerSymbol>
+        <Strategy Name="S1"/>
+    </Portfolio>
+    <Portfolio Type="Flexible" id="s1">
+        <TickerSymbol name="GOOG">
+            <Transcation Count="4.0" Date="2022-09-09" Fee="1.0"/>
+        </TickerSymbol>
+    </Portfolio>
+    <Portfolio Type="Flexible" id="test5">
+        <TickerSymbol name="GOOG">
+            <Transcation Count="3.0" Date="2022-09-09" Fee="2.0"/>
+        </TickerSymbol>
+        <Strategy Name="SHoulWork"/>
+        <TickerSymbol name="IBM">
+            <Transcation Count="0.02322161157984364" Date="2022-09-09" Fee="30.0"/>
+            <Transcation Count="0.023494400501213878" Date="2022-09-14" Fee="30.0"/>
+            <Transcation Count="0.023487042981288654" Date="2022-09-19" Fee="30.0"/>
+            <Transcation Count="0.02444788525792519" Date="2022-09-24" Fee="30.0"/>
+            <Transcation Count="0.024664967524459427" Date="2022-09-29" Fee="30.0"/>
+            <Transcation Count="0.02390438247011952" Date="2022-10-04" Fee="30.0"/>
+            <Transcation Count="0.02524827470122875" Date="2022-10-09" Fee="30.0"/>
+            <Transcation Count="0.024991669443518827" Date="2022-10-14" Fee="30.0"/>
+            <Transcation Count="0.024487796914537587" Date="2022-10-19" Fee="30.0"/>
+            <Transcation Count="0.022609088853719195" Date="2022-10-24" Fee="30.0"/>
+            <Transcation Count="0.021659085986571368" Date="2022-10-29" Fee="30.0"/>
+            <Transcation Count="0.022309808879303936" Date="2022-11-03" Fee="30.0"/>
+            <Transcation Count="0.021422450728363327" Date="2022-11-08" Fee="30.0"/>
+            <Transcation Count="0.02095411049800936" Date="2022-11-13" Fee="30.0"/>
+            <Transcation Count="0.02031969655919805" Date="2022-11-18" Fee="30.0"/>
+            <Transcation Count="0.020168067226890758" Date="2022-11-23" Fee="30.0"/>
+            <Transcation Count="0.020522643316459158" Date="2022-11-28" Fee="30.0"/>
+        </TickerSymbol>
+    </Portfolio>
+    <Portfolio Type="Flexible" id="test6">
+        <TickerSymbol name="IBM">
+            <Transcation Count="2.0" Date="2022-09-09" Fee="3.0"/>
+        </TickerSymbol>
+        <Strategy Name="s4"/>
+        <TickerSymbol name="GOOG">
+            <Transcation Count="178.9228842368939" Date="2022-09-09" Fee="3.0"/>
+            <Transcation Count="189.91548760801442" Date="2022-09-13" Fee="3.0"/>
+            <Transcation Count="192.9943066679533" Date="2022-09-17" Fee="3.0"/>
+            <Transcation Count="199.9800019998" Date="2022-09-21" Fee="3.0"/>
+            <Transcation Count="201.67389331451042" Date="2022-09-25" Fee="3.0"/>
+            <Transcation Count="203.89438270975634" Date="2022-09-29" Fee="3.0"/>
+            <Transcation Count="201.4098690835851" Date="2022-10-03" Fee="3.0"/>
+            <Transcation Count="200.86371397007133" Date="2022-10-07" Fee="3.0"/>
+            <Transcation Count="203.97756246812853" Date="2022-10-11" Fee="3.0"/>
+            <Transcation Count="205.8036633052068" Date="2022-10-15" Fee="3.0"/>
+            <Transcation Count="199.4216771363047" Date="2022-10-19" Fee="3.0"/>
+            <Transcation Count="197.08316909735908" Date="2022-10-23" Fee="3.0"/>
+            <Transcation Count="215.98272138228944" Date="2022-10-27" Fee="3.0"/>
+            <Transcation Count="211.28248468201986" Date="2022-10-31" Fee="3.0"/>
+            <Transcation Count="230.68050749711648" Date="2022-11-04" Fee="3.0"/>
+            <Transcation Count="224.94657518839276" Date="2022-11-08" Fee="3.0"/>
+            <Transcation Count="206.7610875633206" Date="2022-11-12" Fee="3.0"/>
+            <Transcation Count="202.0406101626427" Date="2022-11-16" Fee="3.0"/>
+            <Transcation Count="204.4989775051125" Date="2022-11-20" Fee="3.0"/>
+            <Transcation Count="202.38818053025705" Date="2022-11-24" Fee="3.0"/>
+            <Transcation Count="207.7922077922078" Date="2022-11-28" Fee="3.0"/>
+        </TickerSymbol>
+    </Portfolio>
+    <Portfolio Type="Flexible" id="testGui3">
+        <TickerSymbol name="GOOG">
+            <Transcation Count="4.0" Date="2022-09-09" Fee="2.0"/>
+        </TickerSymbol>
+    </Portfolio>
+    <Portfolio Type="Flexible" id="testGui4">
+        <TickerSymbol name="GOOG">
+            <Transcation Count="4.0" Date="2022-09-09" Fee="2.0"/>
+        </TickerSymbol>
+    </Portfolio>
+</PortfolioManager>

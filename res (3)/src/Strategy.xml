@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<StrategyManager>
+    <Strategy Amount="0.0" CommissionFee="40" Name="Statergy1">
+        <StockAndWeightage Percentage="40" Stock="IBM"/>
+        <StockAndWeightage Percentage="10" Stock="GOOG"/>
+        <StockAndWeightage Percentage="20" Stock="META"/>
+        <StockAndWeightage Percentage="10" Stock="AMZN"/>
+        <StockAndWeightage Percentage="20" Stock="DAI.DEX"/>
+        <StockTimeDetails EndDate="c" Interval="40" NextTranscationDate="2023-01-07" StartDate="2022-09-09"/>
+    </Strategy>
+    <Strategy Amount="3.0" CommissionFee="30" Name="SHoulWork">
+        <StockAndWeightage Percentage="100" Stock="IBM"/>
+        <StockTimeDetails EndDate="C" Interval="5" NextTranscationDate="2022-12-03" StartDate="2022-09-09"/>
+    </Strategy>
+    <Strategy Amount="20000.0" CommissionFee="3" Name="s4">
+        <StockAndWeightage Percentage="100" Stock="GOOG"/>
+        <StockTimeDetails EndDate="C" Interval="4" NextTranscationDate="2022-12-02" StartDate="2022-09-09"/>
+    </Strategy>
+    <Strategy Amount="2000.0" CommissionFee="2" Name="testStatergy3">
+        <StockAndWeightage Percentage="100" Stock="GOOG"/>
+        <StockTimeDetails EndDate="c" Interval="2" NextTranscationDate="2022-09-09" StartDate="2022-09-09"/>
+    </Strategy>
+    <Strategy Amount="2000.0" CommissionFee="2" Name="testStatergy4">
+        <StockAndWeightage Percentage="100" Stock="GOOG"/>
+        <StockTimeDetails EndDate="c" Interval="2" NextTranscationDate="2022-09-09" StartDate="2022-09-09"/>
+    </Strategy>
+</StrategyManager>
