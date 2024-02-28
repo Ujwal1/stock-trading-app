@@ -13,6 +13,8 @@ for Model, View and Controller folders.
 Navigate to : stocks/res (3)/res/ 
 
 for README, DESIGN_README and SETUP_README.
+
+
 ===========================================================================================
 
 Complete new features of the program:
